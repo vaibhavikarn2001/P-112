@@ -1,0 +1,48 @@
+section h1{
+    font-family: 'Parisienne', cursive;
+    position:absolute;
+    margin-top:200px;
+    margin-left: 65%;
+    font-size: 150px;
+}
+section{
+    width:1467px;
+    height:600px;
+
+    background-image:url('linear-flat-butterfly-outline-background_23-2149039947_1_1200x600_1_1467x600.jpg');
+    background-repeat: no-repeat;
+    margin:0px;
+}
+label{
+    font-size: large;
+}
+body{
+    background-color:wheat;
+}
+.container{
+    background-color: lightgoldenrodyellow;
+    margin:5%;
+
+}
+.conc{
+    font-family: 'Tourney', cursive;
+    font-weight: bold;
+}
+
+.conc{
+    font-family: 'Tourney', cursive;
+    font-weight: bold;
+    color:lightsalmon;
+}
+footer{
+    font-family: 'Parisienne', cursive;
+    color:black;
+    text-align: center;
+    font-size:22px;
+    position:fixed;
+    bottom:0;
+    width:100%;
+    
+    background-color: wheat;
+
+}
